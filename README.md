@@ -47,12 +47,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chenhaonan-eth&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenhaonan-eth&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/chenhaonan-eth?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/chenhaonan-eth?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/last-commit/chenhaonan-eth/chenhaonan-eth?style=for-the-badge&logo=git" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=chenhaonan-eth&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chenhaonan-eth&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
